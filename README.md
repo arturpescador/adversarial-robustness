@@ -49,9 +49,9 @@ Arguments:
 
 This project was developed by the following members as part of the Data Science Lab course at Université Paris Dauphine for the academic year 2023/2024:
 
-Artur Dandolini Pescador
-Caio Jordan Azevedo
-Rafael Benatti
+- Artur Dandolini Pescador
+- Caio Jordan Azevedo
+- Rafael Benatti
 
 ## References
 
